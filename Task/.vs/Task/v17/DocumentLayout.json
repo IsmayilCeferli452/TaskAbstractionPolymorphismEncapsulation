@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskAbstractionPolimorfizmEncapsulation\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D75AF946-F2D1-43A6-B2A3-C3A897610868}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\taskabstractionpolimorfizmencapsulation\\task\\task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75AF946-F2D1-43A6-B2A3-C3A897610868}|Task\\Task.csproj|solutionrelative:task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75AF946-F2D1-43A6-B2A3-C3A897610868}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\taskabstractionpolimorfizmencapsulation\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75AF946-F2D1-43A6-B2A3-C3A897610868}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskAbstractionPolimorfizmEncapsulation\\Task\\Task\\User.cs",
+              "RelativeDocumentMoniker": "Task\\User.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskAbstractionPolimorfizmEncapsulation\\Task\\Task\\User.cs",
+              "RelativeToolTip": "Task\\User.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:27:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskAbstractionPolimorfizmEncapsulation\\Task\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskAbstractionPolimorfizmEncapsulation\\Task\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:26:35.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
